@@ -1,0 +1,20 @@
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\csc.exe
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\System.Collections.Immutable.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\System.Reflection.Metadata.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\vbc.exe
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\VBCSCompiler.exe
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\roslyn\VBCSCompiler.exe.config
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\Unresponsive Homework.dll.config
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\Unresponsive Homework.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\Unresponsive Homework.pdb
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\obj\Debug\Unresponsive Homework.csprojResolveAssemblyReference.cache
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\obj\Debug\Unresponsive Homework.dll
+E:\SoftUni\Web Fundamentals\Theme09. Adaptive Design\8. Responsive-and-Bootstrap-Homework\Problem-01\Unresponsive Homework\Unresponsive Homework\obj\Debug\Unresponsive Homework.pdb
